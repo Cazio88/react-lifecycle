@@ -1,0 +1,23 @@
+.user-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .user-container:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .user-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .user-details {
+    margin-top: 5px;
+    color: #666;
+  }
+  
